@@ -93,6 +93,13 @@
             "text": {"headline": "Camflain begins", "text": "Seeking a campaign to play when JW is absent, Kev starts running The Ocean Sleeps, a campaign set in Flain. The party consists of Lan the (blue) tortle druid (played by me), Briaric the fairy cleric (played by Ryu), gork the human paladin (played by Block), Thendri the vedalken artificer (played by Castel), and Torridon the water genasi druid (played by Todd)."},
             "media": {"url": "camflain.png"},
             "group": "D&D"
+        },
+        {
+            "start_date": {"month": 3, "day": 23, "year": 2023},
+            "end_date": {"month": 6, "day": 19, "year": 2023},
+            "text": {"headline": "Lagoon server", "text": "This was a server where a lot of us settled around a beautiful lake. I mostly remember that I built an underground base together with Kev and Castel. This was also the server where Kev built the nuclear wasteland and the first Netro, and we built Canterlot in creative. I'm not sure exactly when it ended, but based on my screenshots I was playing until at least 6/19/23."},
+            "media": {"url": "lagoon_world.png", "caption": "Dynmap screenshot of the lagoon in the early days of the server."},
+            "group": "Minecraft"
         }
     ]
 }
