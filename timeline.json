@@ -1,6 +1,12 @@
 {
     "events": [
         {
+            "start_date": {"month": 2, "day": 28, "year": 2016},
+            "text": {"headline": "First mention of the Order of the Black Arrow", "text": "The term \"Order of the Black Arrow\" first appears in Ryu's posts on the Bay12 forums for the Doomforests succession fort. They are characterized as a secret society, operating within multiple fortresses and opposed to paladins led by Imic."},
+            "media": {"url": "doomforests_order.jpg"},
+            "group": "General"
+        },
+        {
             "start_date": {"month": 1, "day": 16, "year": 2017},
             "text": {"headline": "First post"},
             "media": {"url": "first_post.png", "caption": "First known post in the OBA"},
@@ -73,7 +79,7 @@
         {
             "start_date": {"month": 4, "day": 1, "year": 2026},
             "text": {"headline": "Great Channel Reduction", "text": "As an April Fools joke, Block reduces the OBA down to only 3 channels. Noticing that this appears to have increased activity by concentrating users into fewer channels, the admin team drastically reduces the number of channels, moving many obsolete or redundant channels into the archives."},
-            "media": {"url": "april_fools_logo.png"},
+            "media": {"url": "april_fools_logo.png", "caption": "Logo of the OBA during the April Fools joke"},
             "group": "General"
         },
         {
@@ -100,6 +106,50 @@
             "text": {"headline": "Lagoon server", "text": "This was a server where a lot of us settled around a beautiful lake. I mostly remember that I built an underground base together with Kev and Castel. This was also the server where Kev built the nuclear wasteland and the first Netro, and we built Canterlot in creative. I'm not sure exactly when it ended, but based on my screenshots I was playing until at least 6/19/23."},
             "media": {"url": "lagoon_world.png", "caption": "Dynmap screenshot of the lagoon in the early days of the server."},
             "group": "Minecraft"
+        },
+        {
+            "start_date": {"month": 11, "day": 30, "year": 2019},
+            "end_date": {"month": 12, "day": 31, "year": 2019},
+            "text": {"headline": "December 2019 election", "text": "This is the oldest election attested in #balcony but there were earlier ones. At this point elections were for a single Chancellor to a 3-month term. Unfortunately the elections channel has been deleted so further details are not available."},
+            "media": {"url": "election_dec_2019.png", "caption": "Announcement of Sanya's victory"},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 6, "day": 17, "year": 2018},
+            "text": {"headline": "Ryu quits", "text": "After a period of personal turmoil and conflict with the other members of the server, Ryu resigns as owner, leaves the server, and is banned. This begins the Civil War / Splinter Server period. I believe MHB is in control at this point."},
+            "media": {"url": "ryu_quits.png"},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 9, "day": 25, "year": 2018},
+            "text": {"headline": "Ryu reinstated", "text": "In Ryu's words:<br><i>MHB had not been popular and many people had left for the splinter server over the months. He threatened to delete the OBA, or as it was called then, The Order of the Snek. But Codeman managed to talk him into handing ownership to him, then I talked to a group of which he was banned in and got him unbanned and he passed it back to me.</i>"},
+            "media": {"url": "ryu_unquits.png", "caption": "Ryu celebrating his return"},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 8, "day": 11, "year": 2020},
+            "text": {"headline": "Elections become annual", "text": "Elections are changed to being held once every year instead of 4 times a year. Apparently I was against this for some reason, probably because it meant that I could mess with the election 4x less often."},
+            "media": {"url": "chancellor_year_terms.png", "caption": "#balcony post proposing the change. This is only a proposal, but as I recall it was implemented."},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 9, "day": 30, "year": 2021},
+            "text": {"headline": "Catgirl Chron lobby", "text": "In the September 2021 election, Ryu put all 4 admin positions up for election. He also imposed a 20 vote threshold for Chron specifically to win the election. As the deadline approached and it became clear that Chron was not going to reach the threshold, a group of members including Fallacy promised to vote for him if and only if he changed his profile picture to a catgirl for the next year upon his victory. He agreed and received the 20 votes necessary. The election was ultimately won by Chron, me, Imic, and TricMagic. It appears that future elections also put all 4 admin slots up for vote."},
+            "media": {"url": "catgirl_chron.png", "caption": "Result of the lobbying"},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 6, "day": 30, "year": 2022},
+            "text": {"headline": "June 2022 election", "text": "Last election I can find on the record. Among others, Inky runs on a platform of removing complex numbers from #counting, which she immediately makes good on."},
+            "media": {"url": "election_jun_2022.png", "caption": "Announcement of the results. Note that \"#BUREAU_OF_INFORMATION\" is actually inky.exe, not me."},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 5, "day": 29, "year": 2022},
+            "end_date": {"month": 6, "day": 30, "year": 2022},
+            "text": {"headline": "Complex numbers in #counting", "text": "As a reward/punishment for the count being at zero for so long, I add complex numbers to counting. They remain until they are removed by inky."},
+            "media": {"url": "complex_counting.png", "caption": "The first complex numbers in #counting"},
+            "group": "Forum games"
         }
     ]
 }
