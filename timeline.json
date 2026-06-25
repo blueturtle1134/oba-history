@@ -66,7 +66,21 @@
             "start_date": {"month": 5, "day": 26, "year": 2025},
             "end_date": {"month": 6, "day": 9, "year": 2025},
             "text": {"headline": "Wither fight world", "text": "A normal Minecraft server where we settled in a savanna near a lake, where we built a large enclosed area and Ryu keeps bees. Culminated in us challenging the Wither, which goes catastrophically wrong. The server is quietly abandoned in the aftermath."},
-            "media": {"url": "wither_fight_world.png"},
+            "media": {"url": "wither_fight_world.png", "caption": "Ryu overlooking the central base area."},
+            "group": "Minecraft"
+        },
+        {
+            "start_date": {"month": 7, "day": 8, "year": 2022},
+            "end_date": {"month": 6, "day": 15, "year": 2022},
+            "text": {"headline": "Riviera SMP", "text": "A server with a small world border and different nations with lots of RP. Highlights include Ryu naming himself the Grey King and building on Moonrise Island, me building canals, Chron building an underwater secret base, and Imic building a magnificent underground fortress as he is wont to do. Had its own (now archived) channel, #riviera, which implies that the last activity is Todd playing alone on 8/15/22."},
+            "media": {"url": "riviera_map.png", "caption": "Map of the server area at start, with some of my attempts at naming things"},
+            "group": "Minecraft"
+        },
+        {
+            "start_date": {"month": 7, "day": 16, "year": 2021},
+            "end_date": {"month": 9, "day": 18, "year": 2021},
+            "text": {"headline": "Third Life", "text": "Inspired by the popular Youtube series, we attempted to run a Third Life server, where each player has three lives and may attack other players on their last life, there is a world border, and the server is only online on Saturdays. Honestly nothing really came of the idea, with the most notable events being me dying to creepers, Chron collecting cats, Ryu founding The Valley in the northwest corner, and Fal pursuing a strategy of only playing when no one is online and griefing the world with water walls and fire. Interest slowly died down to just Fal setting fires by 9/18/21."},
+            "media": {"url": "fals_stupidity.png", "caption": "Water walls created by Fal, or the \"topless towers of Fal's stupidity\" as I deemed them"},
             "group": "Minecraft"
         },
         {
@@ -102,9 +116,9 @@
         },
         {
             "start_date": {"month": 3, "day": 23, "year": 2023},
-            "end_date": {"month": 6, "day": 19, "year": 2023},
-            "text": {"headline": "Lagoon server", "text": "This was a server where a lot of us settled around a beautiful lake. I mostly remember that I built an underground base together with Kev and Castel. This was also the server where Kev built the nuclear wasteland and the first Netro, and we built Canterlot in creative. I'm not sure exactly when it ended, but based on my screenshots I was playing until at least 6/19/23."},
-            "media": {"url": "lagoon_world.png", "caption": "Dynmap screenshot of the lagoon in the early days of the server."},
+            "end_date": {"month": 8, "day": 21, "year": 2023},
+            "text": {"headline": "Lagoon server", "text": "This was a server where a lot of us settled around a beautiful lake. I mostly remember that I built an underground base together with Kev and Castel. This was also the server where Kev built the nuclear wasteland and the first Netro; we also had Creative Mode builds such as Canterlot."},
+            "media": {"url": "lagoon_world_end.png", "caption": "Dynmap screenshot of the central area near the end of the server, showing Canterlot, the lagoon, the wasteland, and Ryu's bridge"},
             "group": "Minecraft"
         },
         {
