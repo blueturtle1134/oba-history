@@ -19,6 +19,18 @@
             "group": "Forum games"
         },
         {
+            "start_date": {"month": 1, "day": 11, "year": 2018},
+            "text": {"headline": "Start of the Eternal Tower", "text": "Doubloon starts the Eternal Tower. Progress is slow at times, but as of this writing, over 5000 floors have been built."},
+            "media": {"url": "eternal_tower_start.png"},
+            "group": "Forum games"
+        },
+        {
+            "start_date": {"month": 4, "day": 10, "year": 2026},
+            "text": {"headline": "Start of Spelling", "text": "A new forum game similar to Counting, but for words. I quickly add mechanics of changing the season (and the rules) when the word gets stuck and punishing anyone who makes a swear word."},
+            "media": {"url": "spelling.png"},
+            "group": "Forum games"
+        },
+        {
             "start_date": {"month": 11, "day": 27, "year": 2023},
             "end_date": {"month": 3, "day": 9, "year": 2024},
             "text": {"headline": "Valley of Peace", "text": "A modded minecraft server including Create, Ars Noveau, and Cobblemon. All of us built our bases near each other in a valley, which included many constructions (some questionable) such as a Pokemon gym, the Todd Howard, and the fountain of blood. We attempted to do a quasi-hardcore system of giving players quests when they died, but this quickly petered out."},
@@ -29,6 +41,7 @@
             "start_date": {"month": 1, "day": 29, "year": 2024},
             "end_date": {"month": 2, "day": 26, "year": 2024},
             "text": {"headline": "Modded Hardcore", "text": "We played hardcore with some mods, most notably Origins, which leads to some very creative death messages. Every 5 worlds we did a fish world which was often complete nonsense."},
+            "media": {"url": "modded_hardcore.png", "caption": "Only known screenshot of this period, from World 4. Todd is phased out using the phantom power I believe."},
             "group": "Minecraft"
         },
         {
@@ -48,6 +61,13 @@
             "start_date": {"month": 8, "day": 21, "year": 2023},
             "text": {"headline": "First hardcore world", "text": "The beginning of the Hardcore multiplayer worlds, where we try to beat Minecraft but have to reset when anyone dies. The first world abruptly ends when Ryu and Block fall on a fence post, thus beginning the legend of Tim."},
             "media": {"url": "first_hardcore.png", "caption": "Our base in the first hardcore world. The original Tim is barely visible to the left."},
+            "group": "Minecraft"
+        },
+        {
+            "start_date": {"month": 8, "day": 21, "year": 2023},
+            "end_date": {"month": 11, "day": 20, "year": 2023},
+            "text": {"headline": "Hardcore Minecraft", "text": "The final death count stands at:<br>Ryu: 14.5<br>Blue: 4<br>Blackrock: 2<br>Kev: 1<br>Todd: 1<br>Alphadestroyer: 1<br>Blockmath: 0.5<br>The leading causes of death are: mobs (9), infighting (6), gravity (4), and drowning (2)"},
+            "media": {"url": "give_it_up_for.gif", "caption": "Standard response to an attempt ending"},
             "group": "Minecraft"
         },
         {
@@ -71,7 +91,7 @@
         },
         {
             "start_date": {"month": 7, "day": 8, "year": 2022},
-            "end_date": {"month": 6, "day": 15, "year": 2022},
+            "end_date": {"month": 8, "day": 15, "year": 2022},
             "text": {"headline": "Riviera SMP", "text": "A server with a small world border and different nations with lots of RP. Highlights include Ryu naming himself the Grey King and building on Moonrise Island, me building canals, Chron building an underwater secret base, and Imic building a magnificent underground fortress as he is wont to do. Had its own (now archived) channel, #riviera, which implies that the last activity is Todd playing alone on 8/15/22."},
             "media": {"url": "riviera_map.png", "caption": "Map of the server area at start, with some of my attempts at naming things"},
             "group": "Minecraft"
@@ -97,12 +117,6 @@
             "group": "General"
         },
         {
-            "start_date": {"month": 1, "day": 11, "year": 2018},
-            "text": {"headline": "Start of the Eternal Tower", "text": "Doubloon starts the Eternal Tower. Progress is slow at times, but as of this writing, over 5000 floors have been built."},
-            "media": {"url": "eternal_tower_start.png"},
-            "group": "Forum games"
-        },
-        {
             "start_date": {"month": 4, "day": 20, "year": 2025},
             "text": {"headline": "Elarifa Campaign begins", "text": "The OBA's first D&D campaign begins, with me DMing for Nindis the half-elven ranger (played by Ryu), Snezho the kobold rogue (played by Block), Leiraz the tiefling paladin (played by Kev). We are soon joined by Barkun Porter the human bard (played by Todd) and John Argentine the human warlock (played by JW). Along with their beloved horse, Gabe Newell, they form the Fellowship of the Cart."},
             "media": {"url": "fellowship_of_the_cart.jpg"},
@@ -124,7 +138,7 @@
         {
             "start_date": {"month": 11, "day": 30, "year": 2019},
             "end_date": {"month": 12, "day": 31, "year": 2019},
-            "text": {"headline": "December 2019 election", "text": "This is the oldest election attested in #balcony but there were earlier ones. At this point elections were for a single Chancellor to a 3-month term. Unfortunately the elections channel has been deleted so further details are not available."},
+            "text": {"headline": "December 2019 election", "text": "This is the oldest election attested in #balcony but there were earlier ones. At this point elections were for a single Chancellor to a 3-month term, who was one of four admins. Unfortunately the elections channel has been deleted so further details are not available."},
             "media": {"url": "election_dec_2019.png", "caption": "Announcement of Sanya's victory"},
             "group": "Server Politics"
         },
@@ -156,6 +170,13 @@
             "start_date": {"month": 6, "day": 30, "year": 2022},
             "text": {"headline": "June 2022 election", "text": "Last election I can find on the record. Among others, Inky runs on a platform of removing complex numbers from #counting, which she immediately makes good on."},
             "media": {"url": "election_jun_2022.png", "caption": "Announcement of the results. Note that \"#BUREAU_OF_INFORMATION\" is actually inky.exe, not me."},
+            "group": "Server Politics"
+        },
+        {
+            "start_date": {"month": 8, "day": 1, "year": 2022},
+            "end_date": {"month": 8, "day": 3, "year": 2022},
+            "text": {"headline": "End of elected admins", "text": "Ryu begins attempting to thin the admin list, first by annoying some of us into quitting, then directly removing admins at Gabby's suggestion. Mention is made of removing Sanya, Isabelle, and Chron, to some frustration from both them and random members. Ryu may be playing some other minor pranks on the server at this point. I escalate things by hiding #forum and claiming I've deleted it, which gets me immediately de-admined, and the ordeal ends with elected admins removed.<br><br>It appears a lot of the actual announcements were deleted, so this is reconstructed from what remains and what I can recall."},
+            "media": {"url": "good_looks.png", "caption": "I have no image to represent this period yet; here is a mostly-unrelated quote as a placeholder"},
             "group": "Server Politics"
         },
         {
